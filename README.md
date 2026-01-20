@@ -130,6 +130,9 @@ You can test the API using tools like:
 - Postman
 
 Make sure to send requests with:
+```pgsql
+Content-Type: application/json
+```
 
 ---
 
