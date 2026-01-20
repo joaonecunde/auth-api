@@ -105,7 +105,7 @@ JWT_SECRET=your_jwt_secret
 ---
 
 ## Login User
-### POST /auth/login`
+### POST `/auth/login`
 ```json
 {
   "email": "max@test.com",
