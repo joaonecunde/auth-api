@@ -31,6 +31,7 @@ A backend authentication API built with **Node.js**, **Express**, and **MongoDB*
 
 ## Project Structure
 
+```text
 auth-api/
 ├── src/
 │ ├── controllers/
@@ -47,6 +48,7 @@ auth-api/
 ├── .gitignore
 ├── package.json
 └── README.me
+```
 
 ---
 
