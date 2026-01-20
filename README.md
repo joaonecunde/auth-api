@@ -4,7 +4,7 @@ A backend authentication API built with **Node.js**, **Express**, and **MongoDB*
 
 ---
 
-##Features
+## Features
 
 - User registration
 - User login
@@ -29,7 +29,7 @@ A backend authentication API built with **Node.js**, **Express**, and **MongoDB*
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 auth-api/
 ├── src/
@@ -50,9 +50,9 @@ auth-api/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/joaonecunde/auth-api.git
 cd auth-api
