@@ -147,9 +147,9 @@ Content-Type: application/json
 
 João Necunde
 
-GitHub: [https://github.com/joaonecunde]
+GitHub: [https://github.com/joaonecunde](https://github.com/joaonecunde)
 
-LinkedIn: [https://www.linkedin.com/in/joaonecunde/]
+LinkedIn: [https://www.linkedin.com/in/joaonecunde/](https://www.linkedin.com/in/joaonecunde/)
 
 
 
